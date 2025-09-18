@@ -3,7 +3,6 @@ theme:
   name: material
 
 nav:
-  - Лабораторная 1:
   - Лабораторная 2:
       - Обзор: lab2/index.md
       - Задача 1: lab2/task1.md
