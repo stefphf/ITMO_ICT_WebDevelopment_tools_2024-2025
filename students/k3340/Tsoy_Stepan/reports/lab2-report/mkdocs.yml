@@ -1,0 +1,9 @@
+site_name: Лабораторная работа № 2.
+theme:
+  name: material
+
+nav:
+  - Главная: index.md
+  - Задача 1: task1.md
+  - Задача 2: task2.md
+  - Выводы: conclusions.md
